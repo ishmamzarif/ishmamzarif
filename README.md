@@ -6,9 +6,9 @@ profile readme page is currently under construction! :p
 <samp>
 Zarif Ishmam <br>
 CSE Sophomore at BUET <br>
-[E-mail](mailto:zarif.ishmam9@gmail.com)
+<a href="mailto:zarif.ishmam9@gmail.com">E-mail</a>
 
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/621006246153158686)
+<!-- [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/621006246153158686) -->
 </samp>
 
 </td>
