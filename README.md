@@ -7,7 +7,7 @@ cse student at buet
 
 </td>
 <td>
-![spinning donut](https://github.com/user-attachments/assets/c93d3ef2-296b-4b66-b1a5-4f7bd1c69d62)
+![spinning_donut](./assets/spinning_donut.gif)
 </td>
 </tr>
 </table>
