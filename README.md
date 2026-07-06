@@ -7,7 +7,7 @@ cse student at buet
 
 </td>
 <td>
-![spinning_donut](./assets/spinning_donut.gif)
+<img src="./assets/spinning_donut.gif" alt="spinning donut" width="260" />
 </td>
 </tr>
 </table>
