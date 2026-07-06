@@ -3,8 +3,13 @@ profile readme page is currently under construction! :p
 <tr>
 <td width="400">
 
-zarif ishmam <br>
-cse student at buet
+<samp>
+Zarif Ishmam <br>
+CSE Sophomore at BUET <br>
+[E-mail](mailto:zarif.ishmam9@gmail.com)
+
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/621006246153158686)
+</samp>
 
 </td>
 <td width="400">
@@ -18,7 +23,6 @@ cse student at buet
 ### buet courses
 
 | | |
-|---|---|
 | [1-1](https://github.com/ishmamzarif/1-1) | [1-2](https://github.com/ishmamzarif/1-2) |
 | [2-1](https://github.com/ishmamzarif/2-1) | [2-2](https://github.com/ishmamzarif/2-2) |
 | [3-1](https://github.com/ishmamzarif/3-1) | [3-2](https://github.com/ishmamzarif/3-2) |
