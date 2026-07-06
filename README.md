@@ -1,13 +1,13 @@
 profile readme page is currently under construction! :p
 <table>
 <tr>
-<td>
+<td width="400">
 
 zarif ishmam <br>
 cse student at buet
 
 </td>
-<td>
+<td width="400">
 <img src="./assets/spinning_donut.gif" alt="spinning donut" width="400" />
 </td>
 </tr>
