@@ -7,8 +7,7 @@ cse student at buet
 
 </td>
 <td>
-<img src="<img width="480" height="485" alt="spinning_donut" src="https://github.com/user-attachments/assets/c93d3ef2-296b-4b66-b1a5-4f7bd1c69d62" />
-" width="260" alt="spinning ascii donut"/>
+![spinning donut](https://github.com/user-attachments/assets/c93d3ef2-296b-4b66-b1a5-4f7bd1c69d62)
 </td>
 </tr>
 </table>
