@@ -33,14 +33,15 @@ CSE Sophomore at BUET <br>
 <br>
 
 ### projects
-
+<samp>
 - [supernova](https://github.com/ishmamzarif/supernova)
 - [fakebook](https://github.com/ishmamzarif/fakebook)
 - [hospital-management-system](https://github.com/ishmamzarif/hospital-management-system)
-
+</samp>
 <br>
 
 ### competitions & datathons
-
+<samp>
 - [cuet-polimemedecode](https://github.com/ishmamzarif/cuet-polimemedecode)
 - [dl-sprint-4.0](https://github.com/ishmamzarif/dl-sprint-4.0)
+</samp>
