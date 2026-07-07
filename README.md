@@ -16,7 +16,10 @@
 </tr>
 </table> -->
 
-<img align="left" src="./assets/crt_monitor.gif" alt="crt monitor" width="380" />
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="./assets/crt_monitor_dark.gif">
+  <img align="left" src="./assets/crt_monitor.gif" alt="crt monitor" width="380" />
+</picture>
 
 <br>
 <br>
