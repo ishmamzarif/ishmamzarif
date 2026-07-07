@@ -12,14 +12,14 @@ CSE Sophomore at BUET <br>
 <!-- [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/621006246153158686) <place closing comment here>
 </samp>
 -->
-<code>
+cpp```
   Languages : C, C++, Python, Java, Javascript
   Frameworks: PyTorch, scikit-learn
   Database  : OracleSQL, MySQL, PostgreSQL
 
   Interests : Deep Learning Research
   Contacts  : <a href="mailto:zarif.ishmam9@gmail.com">E-mail</a> <a href="https://www.linkedin.com/in/zarif-ishmam-3b77013a1/">LinkedIn</a>
-</code>
+```
 </td>
 <td width="400">
 <!-- <img src="./assets/spinning_donut.gif" alt="spinning donut" width="400" /> -->
