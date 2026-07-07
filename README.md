@@ -1,4 +1,4 @@
-profile readme page is currently under construction! :p
+<samp>profile readme page is currently under construction! :p</samp>
 <!-- <table>
 <tr>
   <td width="400">
@@ -18,6 +18,10 @@ profile readme page is currently under construction! :p
 
 <img align="left" src="./assets/crt_monitor.gif" alt="crt monitor" width="380" />
 
+<br>
+<br>
+<br>
+
 ```json
 {
   "name":       "zarif ishmam",
@@ -30,16 +34,17 @@ profile readme page is currently under construction! :p
 }
 ```
 
-<a href="mailto:zarif.ishmam9@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://www.linkedin.com/in/zarif-ishmam-3b77013a1/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-
 <br clear="left"/>
 
-
+<p align="center">
+  <samp>
+    <a href="mailto:zarif.ishmam9@gmail.com">[ e-mail ]</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/zarif-ishmam-3b77013a1/">[ linkedin ]</a>
+  </samp>
+</p>
 
 <br>
 
-### buet courses
+### <samp>buet courses</samp>
 
 <p align="center">
   <samp>
@@ -51,14 +56,14 @@ profile readme page is currently under construction! :p
 </p>
 <br>
 
-### projects
+### <samp>projects</samp>
 - [<samp>supernova</samp>](https://github.com/ishmamzarif/supernova)
-- [fakebook](https://github.com/ishmamzarif/fakebook)
-- [hospital-management-system](https://github.com/ishmamzarif/hospital-management-system)
+- [<samp>fakebook</samp>](https://github.com/ishmamzarif/fakebook)
+- [<samp>hospital-management-system</samp>](https://github.com/ishmamzarif/hospital-management-system)
 
 <br>
 
-### competitions & datathons
-- [cuet-polimemedecode](https://github.com/ishmamzarif/cuet-polimemedecode)
-- [dl-sprint-4.0](https://github.com/ishmamzarif/dl-sprint-4.0)
+### <samp>competitions & datathons</samp>
+- [<samp>cuet-polimemedecode</samp>](https://github.com/ishmamzarif/cuet-polimemedecode)
+- [<samp>dl-sprint-4.0</samp>](https://github.com/ishmamzarif/dl-sprint-4.0)
 
