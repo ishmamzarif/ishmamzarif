@@ -14,21 +14,21 @@ profile readme page is currently under construction! :p
     <!-- [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/621006246153158686) <place closing comment here>
     </samp>
     -->
-        ```yaml
-    # ~/zarif/about.yml
-    name:       zarif ishmam
-    role:       CSE sophomore @ BUET
-    languages:  C · C++ · Python · Java · JS
-    frameworks: PyTorch · scikit-learn
-    databases:  Oracle · MySQL · PostgreSQL
-    interests:  deep learning research
-    status:     always compiling...
-    ```
-    <p>
-      <a href="mailto:zarif.ishmam9@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
-      <a href="https://www.linkedin.com/in/zarif-ishmam-3b77013a1/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>       </a>
-      <a href="https://discord.com/users/621006246153158686"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord"/></a>
-    </p>
+  ```yaml
+  # ~/zarif/about.yml
+  name:       zarif ishmam
+  role:       CSE sophomore @ BUET
+  languages:  C · C++ · Python · Java · JS
+  frameworks: PyTorch · scikit-learn
+  databases:  Oracle · MySQL · PostgreSQL
+  interests:  deep learning research
+  status:     always compiling...
+  ```
+  
+  <p align="center">
+    <a href="mailto:zarif.ishmam9@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+    <a href="https://www.linkedin.com/in/zarif-ishmam-3b77013a1/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  </p>
     </td>
 </tr>
 </table>
