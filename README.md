@@ -22,7 +22,7 @@ CSE Sophomore at BUET <br>
 
 ### buet courses
 
-<table width="100%">
+<table width="400">
 <tr>
 <td width="50%" align="center"><a href="https://github.com/ishmamzarif/1-1">1-1</a></td>
 <td width="50%" align="center"><a href="https://github.com/ishmamzarif/1-2">1-2</a></td>
