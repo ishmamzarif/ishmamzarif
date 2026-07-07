@@ -23,6 +23,7 @@ CSE Sophomore at BUET <br>
 ### buet courses
 
 | | |
+|--|--|
 | [1-1](https://github.com/ishmamzarif/1-1) | [1-2](https://github.com/ishmamzarif/1-2) |
 | [2-1](https://github.com/ishmamzarif/2-1) | [2-2](https://github.com/ishmamzarif/2-2) |
 | [3-1](https://github.com/ishmamzarif/3-1) | [3-2](https://github.com/ishmamzarif/3-2) |
