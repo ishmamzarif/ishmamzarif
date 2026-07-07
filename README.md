@@ -13,7 +13,8 @@ CSE Sophomore at BUET <br>
 
 </td>
 <td width="400">
-<img src="./assets/spinning_donut.gif" alt="spinning donut" width="400" />
+<!-- <img src="./assets/spinning_donut.gif" alt="spinning donut" width="400" /> -->
+<img src="./assets/crt_monitor.gif" alt="crt_monitor" width="400" />
 </td>
 </tr>
 </table>
