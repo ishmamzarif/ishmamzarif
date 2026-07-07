@@ -35,6 +35,7 @@ $ ls skills/
   Oracle  MySQL  PostgreSQL
 
 $ cat interests.txt
+  reading and learning languages
   deep learning
   computer vision
 
