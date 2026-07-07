@@ -22,13 +22,24 @@ CSE Sophomore at BUET <br>
 
 ### buet courses
 
-| | |
-|--|--|
-| [1-1](https://github.com/ishmamzarif/1-1) | [1-2](https://github.com/ishmamzarif/1-2) |
-| [2-1](https://github.com/ishmamzarif/2-1) | [2-2](https://github.com/ishmamzarif/2-2) |
-| [3-1](https://github.com/ishmamzarif/3-1) | [3-2](https://github.com/ishmamzarif/3-2) |
-| [4-1](https://github.com/ishmamzarif/4-1) | [4-2](https://github.com/ishmamzarif/4-2) |
-
+<table width="100%">
+<tr>
+<td width="50%" align="center"><a href="https://github.com/ishmamzarif/1-1">1-1</a></td>
+<td width="50%" align="center"><a href="https://github.com/ishmamzarif/1-2">1-2</a></td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/ishmamzarif/2-1">2-1</a></td>
+<td align="center"><a href="https://github.com/ishmamzarif/2-2">2-2</a></td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/ishmamzarif/3-1">3-1</a></td>
+<td align="center"><a href="https://github.com/ishmamzarif/3-2">3-2</a></td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/ishmamzarif/4-1">4-1</a></td>
+<td align="center"><a href="https://github.com/ishmamzarif/4-2">4-2</a></td>
+</tr>
+</table>
 <br>
 
 ### projects
