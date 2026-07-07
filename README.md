@@ -22,16 +22,19 @@
 <br>
 <br>
 
-```json
-{
-  "name":       "zarif ishmam",
-  "role":       "CSE sophomore @ BUET",
-  "languages":  ["C", "C++", "Python", "Java", "JS"],
-  "frameworks": ["PyTorch", "scikit-learn"],
-  "databases":  ["Oracle", "MySQL", "PostgreSQL"],
-  "interests":  "deep learning research",
-  "status":     "always compiling..."
-}
+```
+$ whoami
+  Zarif Ishmam — CSE sophomore @ BUET
+
+$ ls skills/
+  C  C++  Python  Java  JS
+  PyTorch  scikit-learn
+  Oracle  MySQL  PostgreSQL
+
+$ cat interests.txt
+  deep learning
+  computer vision
+
 ```
 
 <br clear="left"/>
@@ -57,13 +60,19 @@
 <br>
 
 ### <samp>projects</samp>
-- [<samp>supernova</samp>](https://github.com/ishmamzarif/supernova)
-- [<samp>fakebook</samp>](https://github.com/ishmamzarif/fakebook)
-- [<samp>hospital-management-system</samp>](https://github.com/ishmamzarif/hospital-management-system)
+
+<samp>
+├── <a href="https://github.com/ishmamzarif/supernova">supernova</a><br>
+├── <a href="https://github.com/ishmamzarif/fakebook">fakebook</a><br>
+└── <a href="https://github.com/ishmamzarif/hospital-management-system">hospital-management-system</a>
+</samp>
 
 <br>
 
 ### <samp>competitions & datathons</samp>
-- [<samp>cuet-polimemedecode</samp>](https://github.com/ishmamzarif/cuet-polimemedecode)
-- [<samp>dl-sprint-4.0</samp>](https://github.com/ishmamzarif/dl-sprint-4.0)
+
+<samp>
+├── <a href="https://github.com/ishmamzarif/cuet-polimemedecode">cuet-polimemedecode</a><br>
+└── <a href="https://github.com/ishmamzarif/dl-sprint-4.0">dl-sprint-4.0</a>
+</samp>
 
