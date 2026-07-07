@@ -6,16 +6,16 @@ profile readme page is currently under construction! :p
     <img src="./assets/crt_monitor.gif" alt="crt_monitor" width="400" />
   </td>
   <td width="400">
-  ```yaml
-  # ~/zarif/about.yml
-  name:       zarif ishmam
-  role:       CSE sophomore @ BUET
-  languages:  C · C++ · Python · Java · JS
-  frameworks: PyTorch · scikit-learn
-  databases:  Oracle · MySQL · PostgreSQL
-  interests:  deep learning research
-  status:     always compiling...
-  ```
+```yaml
+# ~/zarif/about.yml
+name:       "zarif ishmam"
+role:       "CSE sophomore @ BUET"
+languages:  "C · C++ · Python · Java · JS"
+frameworks: "PyTorch · scikit-learn"
+databases:  "Oracle · MySQL · PostgreSQL"
+interests:  "deep learning research"
+status:     "always compiling..."
+```
   <p align="center">
     <a href="mailto:zarif.ishmam9@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
     <a href="https://www.linkedin.com/in/zarif-ishmam-3b77013a1/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
