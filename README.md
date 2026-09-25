@@ -69,6 +69,7 @@ $ cat interests.txt
 ├── <a href="https://github.com/ishmamzarif/supernova">supernova</a><br>
 ├── <a href="https://github.com/ishmamzarif/fakebook">fakebook</a><br>
 ├── <a href="https://github.com/zarifmahir/The_Frontline_Chronicles">the-frontline-chronicles</a><br>
+├── <a href="https://github.com/ishmamzarif/image-processing-lab">image-processing-lab</a><br>  
 └── <a href="https://github.com/ishmamzarif/hospital-management-system">hospital-management-system</a>
 </samp>
 
