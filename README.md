@@ -16,14 +16,14 @@
   </td>
 </tr>
 </table> -->
-<br>
+
 <br>
 <picture>
   <!-- <source media="(prefers-color-scheme: light)" srcset="./assets/crt_monitor_dark.gif">
   <img align="left" src="./assets/crt_monitor.gif" alt="crt monitor" width="380" /> -->
   
   <source media="(prefers-color-scheme: light)" srcset="./assets/spinning_donut">
-  <img align="left" src="./assets/spinning_donut.gif" alt="donut" width="320" />
+  <img align="left" src="./assets/spinning_donut.gif" alt="donut" style="margin-top: -10px;" width="320" />
 </picture>
 
 <br>
