@@ -22,7 +22,7 @@
   <img align="left" src="./assets/crt_monitor.gif" alt="crt monitor" width="380" /> -->
 
   <source media="(prefers-color-scheme: light)" srcset="./assets/spinning_donut">
-  <img align="left" src="./assets/spinning_donut.gif" alt="donut" width="380" />
+  <img align="left" src="./assets/spinning_donut.gif" alt="donut" width="320" />
 </picture>
 
 <br>
