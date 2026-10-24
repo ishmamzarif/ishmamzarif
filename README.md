@@ -17,7 +17,8 @@
 </table> -->
 
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="./assets/crt_monitor_dark.gif">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/spinning_donut.gif">
+  <!-- <source media="(prefers-color-scheme: light)" srcset="./assets/crt_monitor_dark.gif"> -->
   <img align="left" src="./assets/crt_monitor.gif" alt="crt monitor" width="380" />
 </picture>
 
