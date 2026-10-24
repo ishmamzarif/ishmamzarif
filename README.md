@@ -1,4 +1,5 @@
-<samp>profile readme page is currently under construction! :p</samp>
+<!-- <samp>profile readme page is currently under construction! :p</samp> -->
+
 <!-- <table>
 <tr>
   <td width="400">
@@ -17,9 +18,11 @@
 </table> -->
 
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="./assets/spinning_donut.gif">
-  <!-- <source media="(prefers-color-scheme: light)" srcset="./assets/crt_monitor_dark.gif"> -->
-  <img align="left" src="./assets/crt_monitor.gif" alt="crt monitor" width="380" />
+  <!-- <source media="(prefers-color-scheme: light)" srcset="./assets/crt_monitor_dark.gif">
+  <img align="left" src="./assets/crt_monitor.gif" alt="crt monitor" width="380" /> -->
+
+  <source media="(prefers-color-scheme: light)" srcset="./assets/spinning_donut">
+  <img align="left" src="./assets/spinning_donut.gif" alt="donut" width="380" />
 </picture>
 
 <br>
